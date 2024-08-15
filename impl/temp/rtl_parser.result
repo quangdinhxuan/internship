@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Users/Admin/OneDrive/Desktop/Intern_Docs/intern/fpga_gao_project/src/top_hdl.v",
+  "InstLine" : 1,
+  "InstName" : "top_hdl",
+  "ModuleFile" : "C:/Users/Admin/OneDrive/Desktop/Intern_Docs/intern/fpga_gao_project/src/top_hdl.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top_hdl",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Admin/OneDrive/Desktop/Intern_Docs/intern/fpga_gao_project/src/top_hdl.v",
+    "InstLine" : 23,
+    "InstName" : "drv_key_ut0",
+    "ModuleFile" : "C:/Users/Admin/OneDrive/Desktop/Intern_Docs/intern/fpga_gao_project/src/drv_key.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "drv_key"
+   },
+   {
+    "InstFile" : "C:/Users/Admin/OneDrive/Desktop/Intern_Docs/intern/fpga_gao_project/src/top_hdl.v",
+    "InstLine" : 44,
+    "InstName" : "Gowin_OSC_ut0",
+    "ModuleFile" : "C:/Users/Admin/OneDrive/Desktop/Intern_Docs/intern/fpga_gao_project/src/gowin_osc/gowin_osc.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_OSC"
+   }
+  ]
+ }
+]

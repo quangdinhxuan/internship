@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_hdl" Register="1" Lut="2" T_Register="352(1)" T_Alu="15(0)" T_Lut="578(2)" T_Bsram="2(0)">
+    <SubModule name="drv_key_ut0" Register="61" Lut="128" T_Register="61(61)" T_Lut="128(128)"/>
+    <SubModule name="gw_gao_inst_0" Register="290" Alu="15" Lut="448" Bsram="2" T_Register="290(290)" T_Alu="15(15)" T_Lut="448(448)" T_Bsram="2(2)"/>
+    <SubModule name="Gowin_OSC_ut0"/>
+</Module>
